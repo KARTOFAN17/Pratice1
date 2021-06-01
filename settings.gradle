@@ -1,0 +1,4 @@
+include ':First'
+include ':Module1'
+include ':app'
+rootProject.name = "Lesson1"
